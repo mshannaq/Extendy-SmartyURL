@@ -1,5 +1,9 @@
 # SmartyURL Developer Guide
 
+## starter
+
+starter is not a valid production release
+
 ## Installation
 
 to install smartyurl:
